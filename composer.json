@@ -1,0 +1,21 @@
+{
+    "name": "gro/mistri",
+    "description": "A customizable template based code generator for your favorite language and framework",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "vimeo/psalm": "5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["lib/"]
+    },
+    "authors": [
+        {
+            "name": "Ali Masood",
+            "email": "ali@gro.jp"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
